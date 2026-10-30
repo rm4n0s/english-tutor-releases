@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "english-tutor@rm4n0s.dev": {
+      "updates": [
+        {
+          "version": "0.3.0",
+          "update_link": "https://github.com/rm4n0s/english-tutor-releases/releases/download/v0.3.0/english-tutor-0.3.0.xpi",
+          "update_hash": "sha256:dee8d83cac8f070a0436eea4f96ad7cb7deea2bf967e2677e3ad434cbeaf4551",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
