@@ -11,6 +11,16 @@
               "strict_min_version": "140.0"
             }
           }
+        },
+        {
+          "version": "0.3.1",
+          "update_link": "https://github.com/rm4n0s/english-tutor-releases/releases/download/v0.3.1/english-tutor-0.3.1.xpi",
+          "update_hash": "sha256:8f1e16f98513627d6bb54efac704e7308d023e6d0346bd2c8855c5ed96a6968b",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
         }
       ]
     }
